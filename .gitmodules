@@ -1,0 +1,3 @@
+[submodule "JobScope--DB-Processor-Service"]
+	path = JobScope--DB-Processor-Service
+	url = git@github.com:Asirg/JobScope--DB-Processor-Service.git
